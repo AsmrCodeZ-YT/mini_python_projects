@@ -6,8 +6,8 @@
 SR No   | Project 
 --- | --- 
 1 | [Key Word Finder](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/Keyword_finder) 
-2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)
-3 | [Random Password Generator](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator) 
-4 | [Instagram Profile Info](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile)
-
-
+2 | [PY to EXE](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/.py%20to%20.exre) 
+3 | [Color map](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/Color%20map) 
+4 | [Image 2 Cartoon](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/Image2Cartoon) 
+5 | [MP4 TO MP3](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/MP4%20TO%20MP3) 
+6 | [Music Player](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/Musicplayer) 
