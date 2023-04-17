@@ -4,7 +4,7 @@
 ![txt2img-stable2](Keyword_finder\Src\PICK.png)
 
 
-`
+```python
 counter = 0
 counts = {}
 
@@ -51,4 +51,4 @@ f.close()
 print(result)
 
 
-`
+```
