@@ -1,7 +1,7 @@
 
-#**Find KeyWord**
-##best for linkedin and job describtion
-##![txt2img-stable2](mini_python_projects\Keyword_finder\Src\PICK.png)
+# **Find KeyWord**
+## best for linkedin and job describtion
+## ![txt2img-stable2](mini_python_projects/Keyword_finder/Src/PICK.png)
 
 
 ```python
