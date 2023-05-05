@@ -9,6 +9,7 @@ with open(file, "r") as f:
         b = item.splitlines()
 
         words = b[0].split()
+        
 
         for word in words:
             counts.setdefault(word, 0)
@@ -20,7 +21,7 @@ with open(file, "r") as f:
                         key=lambda x: x[+1])
 
 
-f = open("output.txt", "w")
+f = open("output.txt", "w") 
 
 num = 0
 for t in result:
