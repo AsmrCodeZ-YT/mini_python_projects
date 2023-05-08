@@ -17,3 +17,4 @@ SR No   | Project
 12 | [clock](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/clock) 
 13 | [countdown](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/countdown) 
 14| [ip Address tkinter](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/ip%20Address%20tkinter) 
+15| [Marker Generator](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/Marker_generator) 
