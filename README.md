@@ -1,7 +1,5 @@
 # Mini PyThon Projects
 
-
-
 SR No   | Project 
 --- | --- 
 1 | [Key Word Finder](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/Keyword_finder) 
@@ -24,7 +22,7 @@ SR No   | Project
 
 ### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
-1. Go [**`here`**](https://github.com/milaan9/91_Python_Mini_Projects) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/91_Python_Mini_Projects/archive/refs/heads/main.zip).
+1. Go [**`here`**](https://github.com/OWNER2PLUSAI/mini_python_projects) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/OWNER2PLUSAI/mini_python_projects/archive/refs/heads/main.zip).
 
     ![Download ZIP](Src/Code.png)
 
@@ -42,9 +40,8 @@ If you have git and you know how to use it, you can also clone the repository in
 
 ## Authors ✍️
 
-I'm Dr. OMID Ebrahimi and I have written this tutorial. I am computer vision 
-
-If you like this tutorial, please [give it a ⭐ star](n).
+I'm Dr. OMID Ebrahimi and I have written this tutorial.
+If you like this tutorial, please give it a ⭐ star.
 
 ---
 
