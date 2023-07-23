@@ -1,4 +1,4 @@
 # **ip address with tkinter**
 
-## ![Clock](src/image.jpg)
+## ![Clock](src/image.png)
 
