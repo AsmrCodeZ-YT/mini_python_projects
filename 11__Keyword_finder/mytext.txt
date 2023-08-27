@@ -1,0 +1,94 @@
+About the job
+Our mission as research center: Discover personalized medical solutions for environmentally triggered diseases to promote a healthier society in a rapidly changing world.
+
+The Institute of AI for Health develops solutions for digital health challenges. As an emerging European hub for applied artificial intelligence (AI) and machine learning (ML), we aim at modeling disease kinetics, mining electronic health records, developing new drugs and treatments, analyzing biomedical images, and integrating multi-omics data for precision medicine.
+
+Postdoc – Institute of AI for Health (f/m/x)101875
+
+Full time
+
+Neuherberg near Munich
+
+Postdocs
+
+Your responsibilities
+
+We are looking for a postdoctoral researcher with a keen interest in joining a multidisciplinary team to work on the processing, analysis, and modeling of state-of-the-art single-cell omics data.
+
+A particular focus will be on better understanding single cell behavior in health and disease using quantitative insights from computer vision, mechanistic modeling, and ML approaches. In our various collaborations with clinical and industrial partners, we work on scientific questions and solutions with direct impact for healthcare and diagnostics. The position offers the exciting possibility to substantially contribute to and conceive future studies addressing the following aspects:
+Implementation and application of the latest object segmentation and classification algorithms to single cells in 2D and 3D microscopic image data.
+Morphological characterization and tracking of single cells over time.
+Fate prediction of differentiating stem cells using latest neural network architectures.
+Multi-model data integration.
+
+Your Qualifications
+PhD in biology, bioinformatics, biomathematics, physics, or a related field.
+Strong programming skills combined with a mathematical mindset.
+Evidence of the ability to conduct high-quality research and produce publications in top-tier journals.
+Experienced in addressing clinical and biomedical questions.
+
+What we offer you
+
+work-life balance
+
+flexible working hours & working-time models
+
+continuous education and training
+
+30 days annual leave
+
+on-site health management service
+
+home office options
+
+on-site nursery & holiday care
+
+elder care company pension scheme discounted public transport ticket
+
+Munich, with its numerous lakes and its vicinity to the Alps, is considered to be one of the cities with the best quality of life worldwide. With its first-class universities and world-leading research institutions it offers an intellectually stimulating environment.
+
+Provided that the prerequisites are fulfilled, a salary level up to E 13 is possible. Social benefits are based on the collective agreement for the federal public service (TVöD). The position is (initially) limited to 2 years, under certain circumstances an extension can be arranged.
+
+To promote diversity, we welcome applications from talented people regardless of gender, cultural background, nationality, ethnicity, sexual identity, physical abilities, religion and age. Qualified applicants with physical disabilities will be given preference.
+
+If you have obtained a university degree abroad, we require further documents from you regarding the recognition of the degree. Please request the recognition as early as possible.
+Interested?**If you have further questions, simply contact Stephanie Weberring, +49-89-3187 14737, who will be happy to be of assistance. **Helmholtz Zentrum München
+
+Deutsches Forschungszentrum für Gesundheit und Umwelt (GmbH)
+
+AI for Health
+
+Ingolstädter Landstraße 1
+
+85764 Oberschleißheim**
+
+Total E-Quality Award for excellent gender equality policy for women and men: Helmholtz Munich is particularly committed to promoting professional equality between women and men. It therefore aims to increase the proportion of the underrepresented sex in the respective field. Helmholtz Munich is part of the Helmholtz Association, Germany's largest scientific organization. Altogether 43.000 people currently work in its 18 scientific-technical and biological-medical research centers. The Association's annual budget amounts to around 5 billion Euros.
+Als Institut für Experimentelle Psychophysiologie entwickeln wir seit 2009 innovative Projekte in der Forschung und Industrie mit den Schwerpunkten E-Health, Automotive, Robotik, Virtual Reality, Affective Computing, Usability und User-Experience. Weitere Infos zu uns findest du auf unserer Webseite.
+
+Aufgaben
+Du entwickelst und implementierst zusammen mit deinem Team Strategien und unterstützt uns im Projektmanagement innovativer Forschungsprojekte.
+Projekte steuerst du hinsichtlich Machbarkeit, Budget und Konzeption.
+Du übernimmst die Projektkommunikation mit Kunden aus der Wirtschaft und anderen Forschungspartnern.
+Du verantwortest Datenerhebungen, Datenauswertung, branchengerechte Aufbereitung und Präsentation der Ergebnisse.
+Werkstudenten und Praktikanten profitieren von deiner Expertise und unterstützen dich.
+
+Qualifikation
+Deinen Studiengang im Fach Psychologie oder verwandter Fächer (Wirtschafts- oder Naturwissenschaften bzw. Ingenieurwesen) hast du sehr gut oder gut abgeschlossen.
+Ausgeprägte Technikaffinität - du hast Lust an der Arbeit mit neuen Technologien (Virtual Reality, Robotik, Computer Vision, Affective Computing).
+Du konntest erste Programmierkenntnisse sammeln (z.B. R oder Python).
+Souveräner Umgang mit MS Office und solide Präsentationsfähigkeiten.
+Erfahrung mit ansprechender Aufbereitung von Daten in Statistiksoftware
+Du hast Freude an agiler Projektsteuerung und Interesse an anwendungsorientierter Forschung.
+Du verfügst über erste Berufserfahrung (auch Praktika).
+Belastbarkeit, Teamfähigkeit und ein sympathisches Auftreten sind keine Fremdwörter für dich.
+Du kommunizierst sicher und professionell auf Deutsch und Englisch mit unseren internationalen Projektpartnern.
+
+Benefits
+Freue dich auf eine attraktive Vergütung, ein langfristiges Arbeitsverhältnis mit 30 Tagen Urlaub und Sonderurlaub pro Jahr, flexibel gestaltete Arbeitszeiten in einem Loftgebäude inklusive Getränken und Snacks, sowie der Möglichkeit, mobil zu arbeiten.
+Wir übernehmen deine Mitgliedschaft im Fitnessstudio, bieten dir regelmäßige Teamevents und gemeinsame Reisen, um dir einen entspannten Einstieg zu ermöglichen.
+Eine abwechslungsreiche und anspruchsvolle Aufgabe, in der du gestalten und eigene Ideen umsetzen kannst. Flache Hierarchien, kurze Entscheidungswege und damit vielfältige Entwicklungsmöglichkeiten.
+Du möchtest promovieren? Wir unterstützen dich gerne bei deinem Vorhaben.
+
+Du hast Interesse?
+
+Dann sende uns deine digitalen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Zeugnisse) mit Angabe deiner frühestmöglichen Verfügbarkeit und einer Gehaltsvorstellung. Falls du noch Fragen hast, sprich uns gerne direkt an.

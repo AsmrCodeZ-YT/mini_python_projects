@@ -1,0 +1,108 @@
+[34;42m.[0m
+├── [34;42mAngel Finder_cv[0m
+│   ├── [01;32mREADME.md[0m
+│   ├── [01;32mangelFinder.py[0m
+│   └── [34;42msrc[0m
+├── [34;42mColor map[0m
+│   ├── [01;32mREADME.md[0m
+│   ├── [01;32mcolormap.exe[0m
+│   ├── [01;32mcolormap.py[0m
+│   └── [34;42msrc[0m
+├── [34;42mCrop_image[0m
+│   ├── [01;32mREADME.md[0m
+│   ├── [01;32mcrop_image.py[0m
+│   └── [34;42msrc[0m
+├── [34;42mImage2Cartoon[0m
+│   ├── [01;32mREADME.md[0m
+│   ├── [01;32mRun_this.bat[0m
+│   ├── [01;32mimage2cartoon.py[0m
+│   └── [34;42msrc[0m
+├── [34;42mKeyword_finder[0m
+│   ├── [01;32mReadme.md[0m
+│   ├── [34;42mSrc[0m
+│   ├── [01;32mkeyword_finder.py[0m
+│   ├── [01;32mmytext.txt[0m
+│   ├── [34;42moutput[0m
+│   └── [01;32moutput.txt[0m
+├── [01;32mLICENSE[0m
+├── [34;42mMP4 TO MP3[0m
+│   ├── [01;32maa.mp4[0m
+│   ├── [01;32maa.mp4.mp3[0m
+│   └── [01;32mmp3.py[0m
+├── [34;42mMarker_detection[0m
+│   ├── [01;32marp.mp4[0m
+│   └── [01;32mmarker_detection.py[0m
+├── [34;42mMarker_generator[0m
+│   ├── [01;32mReadme.md[0m
+│   ├── [01;32mmarker_generator.py[0m
+│   └── [34;42mmarker_image[0m
+├── [34;42mMusicplayer[0m
+│   └── [01;32mMusic_player.py[0m
+├── [34;42mPDF 2 TxT[0m
+│   ├── [01;32mRun_this.bat[0m
+│   ├── [01;32marti.pdf[0m
+│   ├── [01;32marti.txt[0m
+│   └── [01;32mpdf2text.py[0m
+├── [34;42mQRcode Gen _ tkinter[0m
+│   ├── [01;32mOWNER2PLUSAI_10x10.png[0m
+│   ├── [01;32mgithub.com_8x8.png[0m
+│   ├── [01;32mhello world_4x4.png[0m
+│   ├── [34;42moutput[0m
+│   ├── [01;32mowner2plusai.com_10x10.png[0m
+│   ├── [01;32mqrcode_tkinter.exe[0m
+│   ├── [01;32mqrcode_tkinter.py[0m
+│   └── [01;32mtempCodeRunnerFile.py[0m
+├── [01;32mREADME.md[0m
+├── [34;42mRandom PassWord[0m
+│   ├── [01;32mRandomPassWord_Gen2.py[0m
+│   ├── [01;32mReadme.md[0m
+│   ├── [34;42mSrc[0m
+│   ├── [34;42moutput[0m
+│   └── [01;32mrandomPassWord_Gen.py[0m
+├── [34;42mRoadDetection_cv[0m
+│   ├── [01;32mRoadDetection.ipynb[0m
+│   └── [01;32mpp.jpg[0m
+├── [34;42mSrc[0m
+│   └── [01;32mCode.png[0m
+├── [34;42mTrasnlate_subtitle[0m
+│   ├── [01;32mfa_sub.srt[0m
+│   ├── [01;32msub.srt[0m
+│   └── [01;32mtranslate_subtitle.py[0m
+├── [01;32mTreeFile.txt[0m
+├── [34;42mWebCam_free[0m
+│   ├── [34;42moutput[0m
+│   └── [01;32mwebcam_on_screan.py[0m
+├── [34;42maudioLabrary[0m
+│   ├── [01;32mAudio lab.py[0m
+│   └── [01;32mreadit.text[0m
+├── [34;42mcalculator[0m
+│   ├── [01;32mREADME.md[0m
+│   ├── [01;32mcalculator.py[0m
+│   └── [34;42msrc[0m
+├── [34;42mclock[0m
+│   ├── [01;32mREADME.md[0m
+│   ├── [01;32mclock.py[0m
+│   └── [34;42msrc[0m
+├── [34;42mcountdown[0m
+│   └── [01;32mcountdown.py[0m
+├── [34;42mip Address tkinter[0m
+│   ├── [01;32mREADME.md[0m
+│   ├── [01;32mshow_ip_with_tkinter.exe[0m
+│   ├── [01;32mshow_ip_with_tkinter.py[0m
+│   └── [34;42msrc[0m
+├── [34;42mremove_background[0m
+│   ├── [01;32mComando.jpg[0m
+│   ├── [01;32mEmma-Watson.jpg[0m
+│   ├── [01;32mFerrari-Laferrari-2014.jpg[0m
+│   ├── [01;32mHowling-Timber-Wolf.jpg[0m
+│   ├── [01;32mLionel-Mes1.jpg[0m
+│   ├── [34;42mremove[0m
+│   ├── [01;32mremove_bc.py[0m
+│   └── [01;32mremover.bat[0m
+└── [34;42mwebcam_remove_background[0m
+    ├── [01;32mREADME.md[0m
+    ├── [01;32mWebcam_remove_background.py[0m
+    ├── [34;42mimages[0m
+    └── [34;42msrc[0m
+
+40 directories, 65 files
