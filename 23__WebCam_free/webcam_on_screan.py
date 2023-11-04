@@ -6,9 +6,10 @@ cap = cv.VideoCapture(1) # for me zero
 while True:
     
     sucess , img = cap.read()
+    print(img.shape)
     # resize frame 
-    frame = cv.resize(img,(380 ,560))
-    frame = frame[100:]
+    frame = cv.resize(img,(400 ,600))
+    frame = img[100:]
     cv.imshow("WebCam", frame)
     # cant remove on screen
     cv.setWindowProperty("WebCam", cv.WND_PROP_TOPMOST ,1)
