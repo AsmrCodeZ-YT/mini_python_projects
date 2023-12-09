@@ -1,6 +1,5 @@
 # SubTitle Translator 
 
-
 <div align="center">
   <kbd>
     <img src="src/pic1.png" width = 400/>
